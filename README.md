@@ -1,12 +1,35 @@
 <h1 align="center">
-Bootcamp banco Inter Frontend developer repositório.
+Bootcamp Banco inter frontend developer repositório.
 </h1>
 <div>
 <h2 align="center">Realizado pela plataforma <u>Digital Innovation One</u></h2>
+  <h3 align="center">Site com bootstrap</h3>
+  <img align="center" alt="bootstrap" src="./Pagina com bootstrap/bootstrap/img/site.gif"> 
+</div> 
+<div>
   <h3 align="center">Clone Netflix</h3>
   <img align="center" alt="netflix" src="./clone-netflix/assets/img/netflix.gif"> 
 </div>
-
+<div>
+  <h3 align="center">Projeto Light and Dark mode</h3>
+  <img align="center" alt="light-dark" src="./Projeto -Light-Dark-Mode/dark-mode-exercicio.gif"> 
+</div>
+<div>
+  <h3 align="center">Projeto carregar foto</h3>
+  <img align="center" alt="fotos" src="./Projeto-carregar-fotos/api-cats.gif"> 
+</div>
+<div>
+  <h3 align="center">Contador</h3>
+  <img align="center" alt="Contador" src="./Projeto-Contador/contador.gif"> 
+</div>
+<div>
+  <h3 align="center">Palíndromo</h3>
+  <img align="center" alt="Palíndromo" src="./Projeto-palíndromo/palidrome.gif"> 
+</div>
+<div>
+  <h3 align="center">To-do List</h3>
+  <img align="center" alt="to-do-list" src="./Projeto-To-do list/todolist.gif"> 
+</div>
 ## :rocket: Tecnologias
 
 - ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

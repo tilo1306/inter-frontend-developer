@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1,h2{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 15px;
+}
+ul{
+    width: 130px;
+    margin:0 auto;
+    text-align: left;
+}
+
+#container{
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+#description{
+    border: 1px solid black;
+    width: 50%;
+    text-align: center;
+}
+#example{
+    display: flex;
+    flex-direction: row;
+}
+#final{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#text{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
