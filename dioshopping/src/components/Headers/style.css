@@ -1,0 +1,71 @@
+header {
+  display: flex;
+  flex-direction: column;
+  padding: 0 10px;
+  background-color: blue;
+}
+#header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+#btn-car {
+  width: 40px;
+  height: 40px;
+  background-image: url(../../../public/images/123.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+#area-search {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+}
+#shirt {
+  width: 250px;
+  height: 20px;
+  margin-right: 25px;
+  align-items: center;
+}
+#search {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+@media (max-width: 600px) {
+  #header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #header h1 {
+    margin: 5px auto;
+    padding: 5px;
+  }
+  #header h3 {
+    margin: 5px auto;
+    padding: 5px;
+  }
+  #header button {
+    margin-bottom: 15px;
+  }
+  #search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #shirt {
+    width: 240px;
+    height: 25px;
+    margin-bottom: 10px;
+  }
+  #area-search {
+    margin-right: 25px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+  }
+}

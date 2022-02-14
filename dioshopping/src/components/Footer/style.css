@@ -1,0 +1,8 @@
+footer {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  height: 50px;
+  background-color: blue;
+}
